@@ -402,9 +402,6 @@ Widget _show_Email() {
 
     Navigator.pop(context, 'yes');
 
-
-
-
   }
 
 
